@@ -17,8 +17,8 @@
 
 3. **Supportive Environment**
 
-   - We will foster an atmosphere where personal challenges that affect attendance can
-   be openly shared.
+   - We will foster an atmosphere where personal challenges that affect
+   attendance can be openly shared.
    - We will work together to find individual solutions.
    If someone has difficulty understanding an assignment:
      - They are encouraged to consult the materials
