@@ -58,3 +58,9 @@ def test_spaces_as_string(self):
 def test_mixed_characters(self):
     """It should return the correct length for a string with mixed characters."""
     self.assertEqual(string_length("Documenting,testing and debugging"), 31)
+
+
+def test_non_string_values(self):
+    """It should return a TypeError with non string values"""
+    with self.assertRaises(TypeError):
+        string_length([1, 2, 5.5, 5])
