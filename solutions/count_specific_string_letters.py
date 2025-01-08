@@ -1,4 +1,4 @@
-""" 
+"""
 A function that counts a specific string letters in a sentence using the count method.
 
 function contents -
@@ -10,7 +10,8 @@ function contents -
 
 """
 
-def count_string(sentence:str, letters:str) -> str:
+
+def count_string(sentence: str, letters: str) -> str:
     """
     This function counts the occurrence of a specific letter in a given sentence.
 
@@ -37,11 +38,7 @@ def count_string(sentence:str, letters:str) -> str:
 
     """
     if not letters:
-      raise ValueError("The letter to count must not be empty.")
-    
+        raise ValueError("The letter to count must not be empty.")
+
     specific_letter_count = sentence.count(letters)
-    return (f"The letter '{letters}' appears {specific_letter_count} times")
-
-
-
-
+    return f"The letter '{letters}' appears {specific_letter_count} times"

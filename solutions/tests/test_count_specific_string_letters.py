@@ -14,12 +14,13 @@ Created on: 07 January 2025
 Author: Hope Udoh
 """
 
+
 class TestCountString(unittest.TestCase):
     """
     Test suite for the count_string function.
     """
 
-    #Standard Cases
+    # Standard Cases
     def test_single_occurrence(self):
         """
         Standard Case: Test that the function correctly counts a single occurrence of a letter.
@@ -86,10 +87,10 @@ class TestCountString(unittest.TestCase):
         >>> count_string("a" * 10000, "a")
         'The letter 'a' appears 10000 times'
         """
-        self.assertEqual(count_string("a" * 10000, "a"), "The letter 'a' appears 10000 times")
+        self.assertEqual(
+            count_string("a" * 10000, "a"), "The letter 'a' appears 10000 times"
+        )
+
+
 if __name__ == "__main__":
     unittest.main()
-
-    
-
-    
