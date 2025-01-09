@@ -32,6 +32,8 @@ def string_length(string: str) -> int:
         17
         >>> string_length("#(!)@") # special characters are counted as strings
         5
+        >>> string_length("") # empty string
+        none
         >>> string_length("Documenting,testing and debugging")
         33
         >>> string_length("    ") # spaces are counted as strings

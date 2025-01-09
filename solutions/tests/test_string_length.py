@@ -16,7 +16,7 @@ Created on 06 January 2025
 
 import unittest
 
-from solutions.string_length import string_length
+from ..string_length import string_length
 
 
 class TestStringLength(unittest.TestCase):
@@ -27,9 +27,7 @@ class TestStringLength(unittest.TestCase):
 
 def test_empty_string(self):
     """It should return nothing for an empty string."""
-    self.assertEqual(
-        string_length(""),
-    )
+    self.assertIsNone(string_length(""))
 
 
 def test_word(self):
