@@ -16,7 +16,7 @@ Created on 06 January 2025
 
 import unittest
 
-from ..string_length import string_length
+from solutions.string_length import string_length
 
 
 class TestStringLength(unittest.TestCase):
