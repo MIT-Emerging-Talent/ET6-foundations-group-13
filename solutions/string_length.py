@@ -17,25 +17,23 @@ def string_length(string: str) -> int:
     The function calculates the length of a given string.
 
     Parameters:
-        Text (str): The string whose length is to be calculated.
+        String (str): The string whose length is to be calculated.
 
     Returns:
         int: The length of the string as an integer.
 
     Raises:
-        AssertionError: If the input is not a string.
-
-    assert isinstance(string, str), "The input must be a string."
+        TypeError: If the input is not a string.
 
     Examples:
         >>> string_length("Hey")
         3
         >>> string_length("Second challenge!")
-        18
+        17
         >>> string_length("#(!)@") # special characters are counted as strings
         5
         >>> string_length("Documenting,testing and debugging")
-        31
+        33
         >>> string_length("    ") # spaces are counted as strings
         4
     """

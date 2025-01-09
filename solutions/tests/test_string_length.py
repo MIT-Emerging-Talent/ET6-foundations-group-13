@@ -26,8 +26,10 @@ class TestStringLength(unittest.TestCase):
 
 
 def test_empty_string(self):
-    """It should return 0 for an empty string."""
-    self.assertEqual(string_length(""), 0)
+    """It should return nothing for an empty string."""
+    self.assertEqual(
+        string_length(""),
+    )
 
 
 def test_word(self):
@@ -37,7 +39,7 @@ def test_word(self):
 
 def test_sentence(self):
     """It should return the correct length for a sentence with spaces."""
-    self.assertEqual(string_length("Second challenge!"), 18)
+    self.assertEqual(string_length("Second challenge!"), 17)
 
 
 def test_numerics_as_string(self):
@@ -57,7 +59,7 @@ def test_spaces_as_string(self):
 
 def test_mixed_characters(self):
     """It should return the correct length for a string with mixed characters."""
-    self.assertEqual(string_length("Documenting,testing and debugging"), 31)
+    self.assertEqual(string_length("Documenting,testing and debugging"), 33)
 
 
 def test_non_string_values(self):
