@@ -1,5 +1,5 @@
 # Function that converts Celsius to Fahrenheit
-def celsius_to_fahrenheit(celsius):
+def temperature_converter(celsius):
     """
     Converts the inputted temperature from Celsius to Fahrenheit.
 
@@ -15,7 +15,7 @@ if __name__ == "__main__":
     celsius = float(input("Kindly Enter temperature in Celsius: "))
 
     # Call the function and get the Fahrenheit value
-    fahrenheit = celsius_to_fahrenheit(celsius)
+    fahrenheit = temperature_converter(celsius)
 
     # Display the result
     print(f"{celsius}°C is equal to {fahrenheit}°F.")
