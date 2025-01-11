@@ -1,5 +1,5 @@
 import unittest
-from solutions.count_specific_string_letters import count_string
+from solutions.count_string import count_string
 
 
 """

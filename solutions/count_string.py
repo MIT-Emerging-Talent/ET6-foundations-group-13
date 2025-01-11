@@ -32,7 +32,7 @@ def count_string(sentence: str, letters: str) -> str:
     Example 2:
     >>> count_string("I love pineapples too much", "t"))
     'the letter 't' appears 1 times'
-    
+
     Example 3:
     >>> count_string("Hope", "x"))
     'the letter 'x' appears 0 times'
@@ -43,4 +43,3 @@ def count_string(sentence: str, letters: str) -> str:
 
     specific_letter_count = sentence.count(letters)
     return f"The letter '{letters}' appears {specific_letter_count} times"
-
