@@ -15,3 +15,7 @@ class TestConverter(unittest.TestCase):
 
     def test_zero_temperature(self):
         self.assertEqual(celsius_to_fahrenheit(0), 32)
+
+
+if __name__ == "__main__":
+    unittest.main()
