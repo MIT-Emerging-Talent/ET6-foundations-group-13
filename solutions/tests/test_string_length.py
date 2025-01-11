@@ -27,7 +27,7 @@ class TestStringLength(unittest.TestCase):
 
 def test_empty_string(self):
     """It should return zero for an empty string."""
-    self.assertIsNone(string_length(""), 0)
+    self.assertEqual(string_length(""), 0)
 
 
 def test_word(self):
