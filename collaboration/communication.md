@@ -10,11 +10,17 @@
 # Communication
 
 ______________________________________________________________________
+Effective communication is vital to our project's success. This document outlines our communication schedule, channels, availability, and guidelines for seeking help. Please ensure to keep your contributions respectful, concise, and relevant.
 
 ## Communication Schedule
 
-| Day | How | The topic of discussion | | --- | :-: | ----------------------- |
-| | | |
+| Day       | How            | The topic of discussion             |
+|-----------|----------------|--------------------------------------|
+| Monday    | Video Call     | Weekly planning and progress review |
+| Wednesday | Slack Messages | Mid-week updates and blockers       |
+| Friday    | Video Call     | Sprint retrospectives               |
+| Daily     | Whtspp  | Task-specific discussions           |
+| Daily     | GitHub Issues  | Task-specific discussions           |
 
 ## Communication Channels
 
