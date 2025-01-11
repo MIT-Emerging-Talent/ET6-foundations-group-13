@@ -23,8 +23,6 @@ def count_string(sentence: str, letters: str) -> str:
     str: A string indicating the count of the specific letter in the sentence.
 
     Raises:
-        AssertionError: if the argument(letters) is not a string
-        AssertionError: if the argument(sentence) is not a string
         ValueError: If the letters parameter is an empty string.
 
     Example 1:
@@ -34,7 +32,10 @@ def count_string(sentence: str, letters: str) -> str:
     Example 2:
     >>> count_string("I love pineapples too much", "t"))
     'the letter 't' appears 1 times'
-
+    
+    Example 3:
+    >>> count_string("Hope", "x"))
+    'the letter 'x' appears 0 times'
 
     """
     if not letters:
@@ -42,3 +43,4 @@ def count_string(sentence: str, letters: str) -> str:
 
     specific_letter_count = sentence.count(letters)
     return f"The letter '{letters}' appears {specific_letter_count} times"
+
