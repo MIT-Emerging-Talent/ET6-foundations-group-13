@@ -52,12 +52,22 @@ ______________________________________________________________________
 
 | Day    | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
 |-------------|:------:|:-------:|:---------:|:--------:|:------:|:--------:|:------:|
-| **_Hussaini_** | ✔   |  ✔    |    ✔     |     ✔    |    ✔   |    ✔     | ✔   |
-
+| **_Hussaini_** |  ❌   |   ❌  |    ✔     |     ✔    |    ✔   |    ✔     |  ❌   |
+| **_Tosan_** |  ❌  |  ✔    |    ✔     |      ❌   |    ✔   |    ✔     | ❌  |
+| **_Safiya_** | ✔   | ✔    |   ✔     |   ✔    |    ✔   |    ✔     |  ❌  |
+| **_Hope_** |  ✔  |  ✔    |   ❌   |      ✔   |    ✔   |    ✔     | ✔  |
+| **_Noorelsalam_** |  ❌   |  ✔    |    ❌     |     ❌    |    ✔   |    ✔     | ❌   |
+| **_Ndubuisi_** |  ❌  |   ❌   |    ❌     |      ❌   |   ✔    |    ✔     | ✔   |
+| **_Daniel_** | ❌   |  ✔    |    ❌     |     ✔    |    ✔   |    ✔     | ✔   |
 ### How many hours everyone has per day
 
 - _Hussaini Ahmed_  : _3h_;
-
+- _Tosan_  : _2h_;
+- _Safiya_  : _3h_;
+- _Hope_  : _2h_;
+- _Noorelsalam_  : _3h_;
+- _Ndubuisi_  : _2h_;
+- _Daniel_  : _3h_;
 ## Asking for Help
 
 There's a fine line between confidently learning from your mistakes, and
