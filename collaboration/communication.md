@@ -56,9 +56,10 @@ ______________________________________________________________________
 | **_Tosan_** |  ❌  |  ✔    |    ✔     |      ❌   |    ✔   |    ✔     | ❌  |
 | **_Safiya_** | ✔   | ✔    |   ✔     |   ✔    |    ✔   |    ✔     |  ❌  |
 | **_Hope_** |  ✔  |  ✔    |   ❌   |      ✔   |    ✔   |    ✔     | ✔  |
-| **_Noorelsalam_** |  ❌   |  ✔    |    ❌     |     ❌    |    ✔   |    ✔     | ❌   |
+| **_Noorelsalam_** |  ❌   |  ✔    |    ❌     |     ❌    |    ✔   |    ✔  | ❌ |
 | **_Ndubuisi_** |  ❌  |   ❌   |    ❌     |      ❌   |   ✔    |    ✔     | ✔   |
 | **_Daniel_** | ❌   |  ✔    |    ❌     |     ✔    |    ✔   |    ✔     | ✔   |
+
 ### How many hours everyone has per day
 
 - _Hussaini Ahmed_  : _3h_;
@@ -68,6 +69,7 @@ ______________________________________________________________________
 - _Noorelsalam_  : _3h_;
 - _Ndubuisi_  : _2h_;
 - _Daniel_  : _3h_;
+
 ## Asking for Help
 
 There's a fine line between confidently learning from your mistakes, and
