@@ -1,6 +1,6 @@
 import unittest
 
-from ..temperature_converter import celsius_to_fahrenheit
+from solutions.temperature_converter import celsius_to_fahrenheit
 
 
 class TestConverter(unittest.TestCase):
