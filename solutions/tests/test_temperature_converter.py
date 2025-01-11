@@ -19,7 +19,7 @@ class TestConverter(unittest.TestCase):
         self.assertEqual(temperature_converter(32.77), 90.986)
 
     def test_zero_temperature(self):
-        """It gives an output for when input is 0"""
+        """It gives an output for when the input is 0"""
         self.assertEqual(temperature_converter(0), 32)
 
 
