@@ -12,7 +12,7 @@ def celsius_to_fahrenheit(celsius):
 # Ensure this code block only executes when the script is run directly
 if __name__ == "__main__":
     # Get user input
-    celsius = float(input("Enter temperature in Celsius: "))
+    celsius = float(input("Kindly Enter temperature in Celsius: "))
 
     # Call the function and get the Fahrenheit value
     fahrenheit = celsius_to_fahrenheit(celsius)
