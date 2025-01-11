@@ -10,26 +10,39 @@
 # Communication
 
 ______________________________________________________________________
-Effective communication is vital to our project's success. This document outlines our communication schedule, channels, availability, and guidelines for seeking help. Please ensure to keep your contributions respectful, concise, and relevant.
+Effective communication is vital to our project's success. This document outlines
+ our communication schedule, channels, availability, and guidelines for seeking
+ help. Please ensure to keep your contributions respectful, concise, and relevant.
 
 ## Communication Schedule
 
 | Day       | How            | The topic of discussion             |
 |-----------|----------------|--------------------------------------|
-| Monday    | Video Call     | Weekly planning and progress review |
-| Wednesday | Slack Messages | Mid-week updates and blockers       |
-| Friday    | Video Call     | Sprint retrospectives               |
-| Daily     | Whtspp  | Task-specific discussions           |
-| Daily     | GitHub Issues  | Task-specific discussions           |
+| Daily     | WhatsApp/Slack   | Weekly planning and progress review           |
+| Daily    | GitHub Issues/Pull Requests  | Task-specific discussions|
+| Weekends   | Zoom Calls  | Sharing important updates, and progress .|
 
 ## Communication Channels
 
 how often will we get in touch on each channel, and what we will discuss there:
 
-- **Issues**:
-- **Pull Requests**:
-- **Slack/Discord**:
-- **Video Calls**:
+- **GitHub Issues**:  
+  - **Frequency**: Ongoing.  
+  - **Purpose**: Task assignment, bug reporting, and detailed discussions about
+  specific issues.  
+
+- **Pull Requests**:  
+  - **Frequency**: As needed (during code contributions).  
+  - **Purpose**: Code review, feedback, and discussions about code changes.  
+
+- **Slack/WhatsApp**:  
+  - **Frequency**: Daily updates and asynchronous conversations.  
+  - **Purpose**: Sharing quick updates, raising blockers, and coordinating
+  meetings.  
+
+- **Zoom Calls**:  
+  - **Frequency**: At least once a week (or as required).  
+  - **Purpose**: Detailed planning, brainstorming sessions, and retrospectives.
 
 ______________________________________________________________________
 
@@ -37,17 +50,13 @@ ______________________________________________________________________
 
 ### Availability for calling/messaging
 
-| Day | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday | |
------- | :----: | :-----: | :-------: | :------: | :----: | :------: | :----: |
-| _name_ | | | | | | | |
+| Day    | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
+|-------------|:------:|:-------:|:---------:|:--------:|:------:|:--------:|:------:|
+| **_Hussaini_** | ✔   |  ✔    |    ✔     |     ✔    |    ✔   |    ✔     | ✔   |
 
 ### How many hours everyone has per day
 
-- name: _5h_;
-- name: _6h_;
-- name: _5h_;
-- name: _4h_;
-- name: _3h_;
+- _Hussaini Ahmed_  : _3h_;
 
 ## Asking for Help
 
