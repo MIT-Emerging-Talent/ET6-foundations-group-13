@@ -62,7 +62,7 @@ ______________________________________________________________________
 
 ### How many hours everyone has per day
 
-- _Hussaini Ahmed_  : _3h_;
+- _Hussaini_  : _3h_;
 - _Tosan_  : _2h_;
 - _Safiya_  : _3h_;
 - _Hope_  : _2h_;
