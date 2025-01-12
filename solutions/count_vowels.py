@@ -3,7 +3,7 @@
 """
 A module for counting the number of vowels in a given string.
 
-Created on 01 Jan 2025
+Created on 29 Dec 2024
 @author: Daniel Oluwaluyi
 """
 
